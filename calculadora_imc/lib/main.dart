@@ -119,7 +119,6 @@ class _HomeState extends State<Home> {
                           return "Insira seu peso";
 
                         }
-
                     },
                   ),
 
